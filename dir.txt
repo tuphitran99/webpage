@@ -2,4 +2,4 @@ main.cpp:
 /usr/lib/cgi-bin/wm014/
 
 index.html: 
-/home/wm/wm014/public_html/
+home/wm/wm014/public_html/
